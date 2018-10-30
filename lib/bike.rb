@@ -5,7 +5,8 @@ class Bike
   end
 
   def works?
-    return true
+    puts "you have a bike that works"
+    true
   end
 
 end
