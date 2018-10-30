@@ -17,3 +17,10 @@ docking station --------------> bike
 
 bike --------------> is_working?
      (true / false)
+
+## Errors
+
+Type = NameError
+Path = /Users/leoncross/.rvm/rubies/ruby-2.5.1/bin/irb:11:in <main>
+Line number = 1
+Description = NameError is raised when a given name is invalid or undefined
